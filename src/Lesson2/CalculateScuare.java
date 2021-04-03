@@ -9,7 +9,7 @@ public class CalculateScuare {
         }
     }
 
-    public static int square(int a, int b)  throws noNegativeValuesAllovedException {
+    public static int square(int a, int b) throws noNegativeValuesAllovedException {
         if (a < 0 || b < 0) {
             throw  new noNegativeValuesAllovedException("Отрицательные длины!");
         }
