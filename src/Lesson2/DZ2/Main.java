@@ -32,11 +32,5 @@ public class Main {
             }
         }
         System.out.println("Сумма всех членов массива: " + t);
-
-
     }
-
-
-
-
 }
